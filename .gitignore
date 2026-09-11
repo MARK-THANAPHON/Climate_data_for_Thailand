@@ -1,0 +1,15 @@
+# ============================================================
+# Large Climate Data
+# ============================================================
+
+data/raw/
+data/parquet/
+data/processed/
+
+# DuckDB database
+database/*.duckdb
+database/*.duckdb.wal
+
+# Python cache
+__pycache__/
+*.pyc

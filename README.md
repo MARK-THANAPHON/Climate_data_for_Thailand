@@ -1,1 +1,1 @@
-# -Climate-data-for-Thailand.
+# Climate-data-for-Thailand.
